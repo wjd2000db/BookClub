@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Story Seekers",
+        "book": "Wonder",
+        "author": "R. J. Palacio",
+        "id": 1001,
+        "isMyClub": true,
+        "date":"Oct 14 & 18",
+        "time": "5:00 PM to 6:00 PM",
+        "library": "Waterloo Public Main Library",
+        "attendees": ["Alice", "Bob", "Charlie"],
+        "coordinates": {
+            "longitude": -80.5220,
+            "latitude": 43.4659
+        },
+        "description": "If you love thought-provoking stories and want to explore themes of kindness, acceptance, and friendship, this is the perfect opportunity for you!",
+        "imageName": "wonder",
+        "theme": "buttercup",
+        "bookmarkPage": 50,
+        "note": "read ~p.112"
+    },
+    {
+        "name": "Books & Brews Club",
+        "book": "Fourth Wing",
+        "author": "Rebecca Yarros",
+        "id": 1002,
+        "isMyClub": false,
+        "date":"Wednesday & Friday, Oct 14 - 28",
+        "time": "7:00 PM to 9:00 PM",
+        "library": "Malt & Barley Public House",
+        "attendees": ["Diana", "Ethan", "Fiona", "George"],
+        "coordinates": {
+            "longitude": -80.5001,
+            "latitude": 43.4130
+        },
+        "description": "Join us as we dive into Rebecca Yarros' gripping fantasy novel, Fourth Wing. This thrilling adventure follows Violet Sorrengail's journey into a dangerous world of dragon riders, rebellion, and unbreakable bonds!",
+        "imageName": "fourthWing",
+        "theme": "lavender",
+        "bookmarkPage": 50,
+        "note": "I didn't start reading"
+    },
+    {
+        "name": "Novel Explorers",
+        "book": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "id": 1003,
+        "isMyClub": true,
+        "date":"Sunday, Oct 20 - Nov 10",
+        "time": "9:00 AM to 11:00 AM",
+        "library": "Kitchener Public Library",
+        "attendees": ["Hannah", "Ian", "Jack", "Kara", "Liam"],
+        "coordinates": {
+            "longitude": -80.4925,
+            "latitude": 43.4514
+        },
+        "description": "Join us as we dive into A Little Life, a compelling novel that explores the complexities of personal identity, relationships, and life's intimate struggles. If you enjoy deep, emotionally resonant stories that provoke thought and conversation, this book club is perfect for you. Let's explore its themes together and share our insights!",
+        "imageName": "aLittleLife",
+        "theme": "poppy",
+        "bookmarkPage": 50,
+        "note": "I didn't start reading"
+    },
+    {
+        "name": "#ReadingBuddy",
+        "book": "It Ends with Us",
+        "author": "Coleen Hoover",
+        "id": 1004,
+        "isMyClub": false,
+        "date":"Wednesday, Oct 16 - Nov 6",
+        "time": "9:00 AM to 11:00 AM",
+        "library": "Kitchener Public Library",
+        "attendees": ["Vera", "Will", "Xena", "Yara"],
+        "coordinates": {
+            "longitude": -80.4925,
+            "latitude": 43.4514
+        },
+        "description": "we explore Colleen Hoover’s powerful novel about love, resilience, and self-discovery. Together, we'll dive into Lily’s emotional journey and discuss the heartfelt themes that have resonated with readers around the world. Perfect for fans of gripping, thought-provoking stories!",
+        "imageName": "itEndsWithUs",
+        "theme": "seafoam",
+        "bookmarkPage": 50,
+        "note": "I didn't start reading"
+    },
+    {
+        "name": "Read & Chat",
+        "book": "The Women",
+        "author": " Kristin Hannah",
+        "id": 1005,
+        "isMyClub": false,
+        "date":"Sunday, Oct 20 - Nov 10",
+        "time": "10:00 AM to 11:00 AM",
+        "library": "Kitchener Public Library",
+        "attendees": ["Paul", "Quinn", "Rita", "Sam", "Tina", "Ulysses"],
+        "coordinates": {
+            "longitude": -80.4925,
+            "latitude": 43.4514
+        },
+        "description": "Join our club to delve into Kristin Hannah’s poignant exploration of the lives of women in the face of war, love, and sacrifice. We’ll discuss the powerful themes of friendship, resilience, and the strength found in community. Perfect for those who appreciate heartfelt storytelling and compelling character journeys!",
+        "imageName": "theWomen",
+        "theme": "buttercup",
+        "bookmarkPage": 50,
+        "note": "read ~p.30"
+    },
+    {
+        "name": "Grand Reads",
+        "book": "The Vegetarian",
+        "author": "Han Kang",
+        "id": 1006,
+        "isMyClub": true,
+        "date":"Sunday, Oct 27",
+        "time": "10:00 AM to 11:30 AM",
+        "library": "online",
+        "attendees": ["Jack", "Liam", "Mia", "Olivia", "Sophia", "James", "Lucas"],
+        "coordinates": {
+            "longitude": 0,
+            "latitude": 0
+        },
+        "description": "Would you like to read a Nobel Prize-winning novel together? This month, our book club will be reading The Vegetarian by Han Kang. It's a unique and thought-provoking story filled with deep themes. Join us for an insightful discussion and a chance to share your thoughts on this powerful novel. Don't miss the opportunity to be part of a great conversation!",
+        "imageName": "theVegetarian",
+        "theme": "seafoam",
+        "bookmarkPage": 50,
+        "note": "I didn't start reading"
+   },
+   {
+        "name": "Coffee and Crime",
+        "book": "The Devotion of Suspect X",
+        "author": "Keigo Higashino",
+        "id": 1007,
+        "isMyClub": false,
+        "date":"Monday, Oct 21",
+        "time": "7:00 PM to 8:00 PM",
+        "library": "online",
+        "attendees": ["Alice", "Bob", "Charlie", "Diana", "Ethan", "Fiona", "George"],
+        "coordinates": {
+            "longitude": 0,
+            "latitude": 0
+        },
+        "description": "This month, we will be reading The Devotion of Suspect X by Keigo Higashino, a captivating tale that combines suspense with profound themes of love and sacrifice. Join us as we unravel the twists and turns of this brilliant mystery.",
+        "imageName": "theDevotion",
+        "theme": "seafoam",
+        "bookmarkPage": 70,
+        "note": "I didn't start reading"
+        
+   }
+   
+]
